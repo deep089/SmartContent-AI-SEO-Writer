@@ -1,7 +1,4 @@
 # SmartContent-AI-SEO-Writer
-
-# SEO Optimizer AI
-
 ## Introduction
 **SEO Optimizer AI** is a Streamlit-based web application that leverages open-source language models from Hugging Face to generate SEO-optimized content. It allows users to input a target keyword, choose a tone, content type, and desired word count to produce high-quality, structured, and engaging content tailored for search engine visibility.
 
